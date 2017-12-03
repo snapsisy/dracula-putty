@@ -1,0 +1,1 @@
+this bat generates a .reg file and just invoke it will be ok
