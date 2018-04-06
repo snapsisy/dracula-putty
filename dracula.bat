@@ -1,5 +1,5 @@
 @echo off
-set /p name=input your session name
+set /p name=input your session name here: 
 set draculaname=dracula%name%.reg
 echo Windows Registry Editor Version 5.00 >> %draculaname%
 echo.
